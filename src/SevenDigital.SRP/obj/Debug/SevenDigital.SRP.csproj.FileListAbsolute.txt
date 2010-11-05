@@ -1,0 +1,6 @@
+C:\Projects\Dojos\SOLIDPrinciplesExamples2\src\SevenDigital.SRP\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Dojos\SOLIDPrinciplesExamples2\src\SevenDigital.SRP\bin\Debug\SevenDigital.SRP.dll
+C:\Projects\Dojos\SOLIDPrinciplesExamples2\src\SevenDigital.SRP\bin\Debug\SevenDigital.SRP.pdb
+C:\Projects\Dojos\SOLIDPrinciplesExamples2\src\SevenDigital.SRP\bin\Debug\nunit.framework.dll
+C:\Projects\Dojos\SOLIDPrinciplesExamples2\src\SevenDigital.SRP\obj\Debug\SevenDigital.SRP.dll
+C:\Projects\Dojos\SOLIDPrinciplesExamples2\src\SevenDigital.SRP\obj\Debug\SevenDigital.SRP.pdb
