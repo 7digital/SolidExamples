@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenDigital.SRP", "src\SevenDigital.SRP\SevenDigital.SRP.csproj", "{088A46F3-5795-4160-9467-F0E7A855809B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SevenDigital.OCP", "src\SevenDigital.OCP\SevenDigital.OCP.csproj", "{D41A8035-7A45-46D5-9133-3979B0DB9487}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{088A46F3-5795-4160-9467-F0E7A855809B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{088A46F3-5795-4160-9467-F0E7A855809B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{088A46F3-5795-4160-9467-F0E7A855809B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41A8035-7A45-46D5-9133-3979B0DB9487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41A8035-7A45-46D5-9133-3979B0DB9487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41A8035-7A45-46D5-9133-3979B0DB9487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41A8035-7A45-46D5-9133-3979B0DB9487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
